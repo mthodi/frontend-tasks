@@ -23,7 +23,7 @@ Do this in the commmand prompt/terminal.
 
 1) Clone this repository to your computer
 
-`git clone https://`
+`git clone https://github.com/mthodi/frontend-tasks.git`
 
 
 2) Install all the dependencies 
@@ -59,5 +59,7 @@ Once you have completed the task, and your code is running, share your code back
 to the remote repository by typing the following commands:
 
 `git add ANY_FILE_YOU_MODIFIED`
+
 `git commit -m "TYPE MESSAGE HERE"`
+
 `git push -u origin master`
